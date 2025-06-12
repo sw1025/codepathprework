@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *Prework*
 
 Submitted by: **Susan Wang**
 
 **Prework** is an app that... [changes background color when button is pressed] 
 
-Time spent: **1** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -12,22 +12,25 @@ The following **required** functionality is completed:
 
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
- 
-## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+Favorite Apps: 
+1. Gmail: options to change between mailboxes or combine them, starred emails
+2. YouTube: visual layout, home page has recommendations
+3. rednote: visual layout, home page has recommendations
+
+An app I would like to build is a study app with various smaller functionalities inside it. For example, there could be a timer, to-do list, music, and an option to lock the phone to the app for a certain period of time to avoid distractions.
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+I had trouble with the button functionality at first because I didn't know I had to choose the Action option rather than Option. After making the Github folder and moving everything there, I had trouble making the build work, even though it worked before, and I didn't change anything.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Susan Wang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
